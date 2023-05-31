@@ -1,0 +1,4 @@
+azure-identity==1.13.0b4
+azure-search-documents==11.4.0b3
+azure-storage-blob==12.14.1
+pandas==2.0.1
