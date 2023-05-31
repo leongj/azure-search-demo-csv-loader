@@ -9,7 +9,8 @@ It's incredibly simplistic and (right now) **loads each CSV as a single document
 > Do not load CSVs that are more than a few hundred cells (rows x columns) as they will be too big (too many tokens) for the default GPT model (`gpt-35-turbo`) to process (4k tokens limit)
 
 ## Steps
-1. Download this repository 
+1. Download this repository
+ -- https://github.com/leongj/azure-search-demo-csv-loader/zipball/main
    
 2. Copy the `csvloader` directory into your working `azure-search-openai-demo` directory (so it becomes `azure-search-openai-demo/csvloader`).
    
